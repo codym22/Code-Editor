@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Code-Editor/static/css/main.b05d896b.css",
+    "main.js": "/Code-Editor/static/js/main.ae770dd4.js",
+    "index.html": "/Code-Editor/index.html",
+    "main.b05d896b.css.map": "/Code-Editor/static/css/main.b05d896b.css.map",
+    "main.ae770dd4.js.map": "/Code-Editor/static/js/main.ae770dd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b05d896b.css",
+    "static/js/main.ae770dd4.js"
+  ]
+}
